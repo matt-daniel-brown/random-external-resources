@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1F1C2C" offset="0%"></stop>
+            <stop stop-color="#928DAB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2">
+            <path d="M75,0 L140,38 L140,112 L75,150 L10,113 L10,38 L75,0 Z M76,76 C66.4797688,64.94 53.5572254,53 49,53 L49,98 L61,98 L61,77 C66.1676301,82.4 71.9734104,88.88 76,93 C80.0265896,88.88 85.8947977,82.46 91,77 L91,98 L103,98 L103,53 C98.5052023,53 85.5202312,64.94 76,76 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+            <rect id="Rectangle-3" fill="#D8D8D8" opacity="0" x="0" y="0" width="150" height="150"></rect>
+        </g>
+    </g>
+</svg>
